@@ -1,0 +1,65 @@
+
+[
+    {
+      "id": 1,
+      "name": "HP Victus Gaming Laptop",
+      "category": "Computers",
+      "brand": "ExampleBrand",
+      "price": 68900,
+      "stock": 50,
+      "description": "12th Gen Intel Core i5-12450H, 4GB RTX 3050 GPU, 15.6-inch (39.6 cm) FHD IPS 144Hz, 16GB DDR4, 512GB SSD, Backlit KB, B&O Dual Speakers (Win 11, MSO, Blue, 2.37 kg), fa0666TX",
+      "image": "../images/laptop.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Z Fold5 5G",
+      "category": "Mobiles",
+      "brand": "TechGadget",
+      "price": 164999,
+      "stock": 100,
+      "image": "../images/mobile.jpg",
+      "description": "AI Smartphone (Black, 12GB RAM, 512GB Storage)"
+    },
+    {
+      "id": 3,
+      "name": "boAt Rockerz 450R",
+      "category": "Audio",
+      "brand": "SoundBeats",
+      "price": 1699,
+      "stock": 30,
+      "image": "../images/headphone.JPG",
+      "description": "On-Ear Headphones with 15 Hours Battery, 40mm Drivers, Padded Ear Cushions, Easy Access Controls and Voice Assistant"
+    },
+    {
+      "id": 4,
+      "name": "Noise Pulse 2 Max",
+      "category": "Wearables",
+      "brand": "FitTech",
+      "price": 1200,
+      "stock": 20,
+      "image": "../images/watch.JPG",
+      "description": "1.85 Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women"
+    },
+    {
+      "id": 5,
+      "name": "Marshall Acton II",
+      "category": "Audio",
+      "brand": "SoundBeats",
+      "price": 26999,
+      "stock": 30,
+      "image": "../images/speaker.jpg",
+      "description": "Wireless Bluetooth Powered Speaker (Black)"
+    },
+    {
+      "id": 6,
+      "name": "LG television",
+      "category": "Video",
+      "brand": "Samsung",
+      "price": 25000,
+      "stock": 20,
+      "image": "../images/tv.JPG",
+      "description": "80 cm (32 inches) HD Ready Smart LED TV 32LM563BPTC (Dark Iron Gray)"
+    }
+   
+   
+  ]  
